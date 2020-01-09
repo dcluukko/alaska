@@ -7,9 +7,13 @@ body {
 }
 
 .container {
-    background: white;
+    background: rgba(0,0,0,.5);
+    
 }
 
 .jumbotron{
     background: rgb(231, 218, 95);
+}
+h2, blockquote footer, blockquote p, ul li, .panel-title {
+    color:white;
 }
