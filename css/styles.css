@@ -1,0 +1,15 @@
+body {
+    background: url(https://global.hurtigruten.com/globalassets/photos/destinations/alaska/2500x1250_fjell-og-villmark-alaska-hgr-137464--foto_shutterstock.jpg?width=1245&height=850&transform=DownFill) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.container {
+    background: white;
+}
+
+.jumbotron{
+    background: rgb(231, 218, 95);
+}
