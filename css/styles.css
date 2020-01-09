@@ -17,3 +17,17 @@ body {
 h2, blockquote footer, blockquote p, ul li, .panel-title {
     color:white;
 }
+img {
+    border-radius: 30%;
+}
+
+.blue {
+    background-color: rgb(157, 228, 238);
+}
+
+.purple {
+    background-color:rgb(230, 204, 245)
+}
+.green{
+    background-color:rgb(143, 201, 162)
+}
